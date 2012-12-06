@@ -284,12 +284,14 @@ Section -AdditionalIcons
 	CreateShortCut "$SMPROGRAMS\美联美容管理软件\mysql关闭.lnk" "$INSTDIR\mysql\停止mysql.cmd"  \
   "commond" "$INSTDIR\\config\\mysqlstop.ico"
 
+
+	SetOutPath   "$INSTDIR\tomcat\bin\"
 	;菜单备份mysql
-	CreateShortCut "$SMPROGRAMS\美联美容管理软件\数据备份.lnk" "$INSTDIR\mysql\mysql_bak.cmd"  \
+	CreateShortCut "$SMPROGRAMS\美联美容管理软件\数据备份.lnk" "$INSTDIR\tomcat\bin\bak.bat"  \
   "commond" "$INSTDIR\\config\\bak.ico"
 
 	;菜单还原mysql
-	CreateShortCut "$SMPROGRAMS\美联美容管理软件\数据还原.lnk" "$INSTDIR\mysql\mysql_restore.cmd"  \
+	CreateShortCut "$SMPROGRAMS\美联美容管理软件\数据还原.lnk" "$INSTDIR\tomcat\bin\restore.bat"  \
   "commond" "$INSTDIR\\config\\restore.ico"
 
 	;卸载

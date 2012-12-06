@@ -408,3 +408,14 @@ Version: '5.0.90-community-nt'  socket: ''  port: 3306  MySQL Community Edition 
 121206 13:04:19  InnoDB: Shutdown completed; log sequence number 0 43655
 121206 13:04:19 [Note] C:\appdisk\mysql\mysql5.0.90_hz\bin\mysqld-nt.exe: Shutdown complete
 
+121206 17:10:05  InnoDB: Started; log sequence number 0 43655
+121206 17:10:05 [Note] C:\appdisk\mysql\mysql5.0.90_hz\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.90-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+121206 17:44:18 [Note] C:\appdisk\mysql\mysql5.0.90_hz\bin\mysqld-nt.exe: Normal shutdown
+
+121206 17:44:20 [Warning] C:\appdisk\mysql\mysql5.0.90_hz\bin\mysqld-nt.exe: Forcing close of thread 18  user: 'root'
+
+121206 17:44:20  InnoDB: Starting shutdown...
+121206 17:44:21  InnoDB: Shutdown completed; log sequence number 0 43655
+121206 17:44:21 [Note] C:\appdisk\mysql\mysql5.0.90_hz\bin\mysqld-nt.exe: Shutdown complete
+
