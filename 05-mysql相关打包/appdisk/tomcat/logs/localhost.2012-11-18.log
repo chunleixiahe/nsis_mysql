@@ -1,0 +1,72 @@
+2012-11-18 5:43:46 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+2012-11-18 5:43:46 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+2012-11-18 5:43:47 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+2012-11-18 5:43:48 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring FrameworkServlet 'mvc'
+2012-11-18 5:43:54 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+2012-11-18 5:43:56 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring FrameworkServlet 'mvc'
+2012-11-18 5:46:48 org.apache.catalina.core.ApplicationContext log
+信息: Destroying Spring FrameworkServlet 'mvc'
+2012-11-18 5:46:48 org.apache.catalina.core.ApplicationContext log
+信息: Closing Spring root WebApplicationContext
+2012-11-18 5:46:49 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+2012-11-18 5:46:49 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+2012-11-18 5:46:49 org.apache.catalina.core.ApplicationContext log
+信息: Destroying Spring FrameworkServlet 'mvc'
+2012-11-18 5:46:49 org.apache.catalina.core.ApplicationContext log
+信息: Closing Spring root WebApplicationContext
+2012-11-18 5:47:12 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+2012-11-18 5:47:12 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+2012-11-18 5:47:13 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+2012-11-18 5:47:13 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring FrameworkServlet 'mvc'
+2012-11-18 5:47:15 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+2012-11-18 5:47:16 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring FrameworkServlet 'mvc'
+2012-11-18 5:47:24 org.apache.catalina.core.ApplicationContext log
+信息: Destroying Spring FrameworkServlet 'mvc'
+2012-11-18 5:47:24 org.apache.catalina.core.ApplicationContext log
+信息: Closing Spring root WebApplicationContext
+2012-11-18 5:47:24 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+2012-11-18 5:47:24 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+2012-11-18 5:47:24 org.apache.catalina.core.ApplicationContext log
+信息: Destroying Spring FrameworkServlet 'mvc'
+2012-11-18 5:47:24 org.apache.catalina.core.ApplicationContext log
+信息: Closing Spring root WebApplicationContext
+2012-11-18 5:47:30 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+2012-11-18 5:47:30 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+2012-11-18 5:47:31 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+2012-11-18 5:47:32 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring FrameworkServlet 'mvc'
+2012-11-18 5:47:33 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+2012-11-18 5:47:34 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring FrameworkServlet 'mvc'
+2012-11-18 5:50:22 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+2012-11-18 5:50:22 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+2012-11-18 5:50:22 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+2012-11-18 5:50:23 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring FrameworkServlet 'mvc'
+2012-11-18 5:50:24 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+2012-11-18 5:50:25 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring FrameworkServlet 'mvc'

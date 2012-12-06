@@ -1,0 +1,19 @@
+[BlazeDS]12/04/2012 19:53:24.840 [INFO] [Configuration] BlazeDS - Community Edition: 4.0.0.14931[BlazeDS]12/04/2012 19:53:24.984 [INFO] [Configuration] Endpoint 'my-polling-amf' created with security: None
+at URL: http://{server.name}:{server.port}/{context.root}/messagebroker/amfpolling[BlazeDS]12/04/2012 19:53:24.986 [INFO] [Configuration] Endpoint 'my-amf' created with security: None
+at URL: http://{server.name}:{server.port}/{context.root}/messagebroker/amf[BlazeDS]12/04/2012 19:53:24.991 [INFO] [Configuration] Endpoint 'my-secure-amf' created with security: None
+at URL: https://{server.name}:{server.port}/{context.root}/messagebroker/amfsecure[BlazeDS]12/04/2012 19:54:47.336 [INFO] [Configuration] BlazeDS - Community Edition: 4.0.0.14931[BlazeDS]12/04/2012 19:54:47.425 [INFO] [Configuration] Endpoint 'my-polling-amf' created with security: None
+at URL: http://{server.name}:{server.port}/{context.root}/messagebroker/amfpolling[BlazeDS]12/04/2012 19:54:47.428 [INFO] [Configuration] Endpoint 'my-amf' created with security: None
+at URL: http://{server.name}:{server.port}/{context.root}/messagebroker/amf[BlazeDS]12/04/2012 19:54:47.433 [INFO] [Configuration] Endpoint 'my-secure-amf' created with security: None
+at URL: https://{server.name}:{server.port}/{context.root}/messagebroker/amfsecure[BlazeDS]12/04/2012 19:58:04.415 [INFO] [Configuration] BlazeDS - Community Edition: 4.0.0.14931[BlazeDS]12/04/2012 19:58:04.500 [INFO] [Configuration] Endpoint 'my-polling-amf' created with security: None
+at URL: http://{server.name}:{server.port}/{context.root}/messagebroker/amfpolling[BlazeDS]12/04/2012 19:58:04.503 [INFO] [Configuration] Endpoint 'my-amf' created with security: None
+at URL: http://{server.name}:{server.port}/{context.root}/messagebroker/amf[BlazeDS]12/04/2012 19:58:04.507 [INFO] [Configuration] Endpoint 'my-secure-amf' created with security: None
+at URL: https://{server.name}:{server.port}/{context.root}/messagebroker/amfsecure[BlazeDS]12/04/2012 20:00:36.480 [INFO] [Configuration] BlazeDS - Community Edition: 4.0.0.14931[BlazeDS]12/04/2012 20:00:36.574 [INFO] [Configuration] Endpoint 'my-polling-amf' created with security: None
+at URL: http://{server.name}:{server.port}/{context.root}/messagebroker/amfpolling[BlazeDS]12/04/2012 20:00:36.576 [INFO] [Configuration] Endpoint 'my-amf' created with security: None
+at URL: http://{server.name}:{server.port}/{context.root}/messagebroker/amf[BlazeDS]12/04/2012 20:00:36.581 [INFO] [Configuration] Endpoint 'my-secure-amf' created with security: None
+at URL: https://{server.name}:{server.port}/{context.root}/messagebroker/amfsecure[BlazeDS]12/04/2012 20:02:33.580 [INFO] [Configuration] BlazeDS - Community Edition: 4.0.0.14931[BlazeDS]12/04/2012 20:02:33.660 [INFO] [Configuration] Endpoint 'my-polling-amf' created with security: None
+at URL: http://{server.name}:{server.port}/{context.root}/messagebroker/amfpolling[BlazeDS]12/04/2012 20:02:33.662 [INFO] [Configuration] Endpoint 'my-amf' created with security: None
+at URL: http://{server.name}:{server.port}/{context.root}/messagebroker/amf[BlazeDS]12/04/2012 20:02:33.666 [INFO] [Configuration] Endpoint 'my-secure-amf' created with security: None
+at URL: https://{server.name}:{server.port}/{context.root}/messagebroker/amfsecure[BlazeDS]12/04/2012 20:04:00.165 [INFO] [Configuration] BlazeDS - Community Edition: 4.0.0.14931[BlazeDS]12/04/2012 20:04:00.250 [INFO] [Configuration] Endpoint 'my-polling-amf' created with security: None
+at URL: http://{server.name}:{server.port}/{context.root}/messagebroker/amfpolling[BlazeDS]12/04/2012 20:04:00.252 [INFO] [Configuration] Endpoint 'my-amf' created with security: None
+at URL: http://{server.name}:{server.port}/{context.root}/messagebroker/amf[BlazeDS]12/04/2012 20:04:00.257 [INFO] [Configuration] Endpoint 'my-secure-amf' created with security: None
+at URL: https://{server.name}:{server.port}/{context.root}/messagebroker/amfsecure

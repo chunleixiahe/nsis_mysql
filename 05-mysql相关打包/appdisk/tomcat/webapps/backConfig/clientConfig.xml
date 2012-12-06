@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<beaPathConfig>
+	<webserviceAddress>http://127.0.0.1:8080/bea/services/beapathCURD?wsdl</webserviceAddress> 
+</beaPathConfig>
+
+<datadictConfig>
+	<webserviceAddress>http://127.0.0.1:8080/bea/services/dataDict?wsdl</webserviceAddress>
+</datadictConfig>
+ 
+ <jobService>
+	<webserviceAddress>http://127.0.0.1:8080/bea/services/JobService?wsdl</webserviceAddress>
+</jobService>
+
+<backConfig>
+	<webserviceAddress>http://127.0.0.1:8080/bea/services/dataDictConfig?wsdl</webserviceAddress>
+</backConfig>
+
+<userOnlineConfig>
+	<webserviceAddress>http://127.0.0.1:8080/p/services/UserOnline?wsdl</webserviceAddress>
+</userOnlineConfig>
+
+<userConfig>
+	<webserviceAddress>http://127.0.0.1:8080/p/services/UserConfig?wsdl</webserviceAddress>
+</userConfig>
+
+<roleConfig>
+	<webserviceAddress>http://127.0.0.1:8080/p/services/RoleConfig?wsdl</webserviceAddress> 
+</roleConfig>
+
+<dataTransConfig>
+	<webserviceAddress>http://127.0.0.1:8080/bea/services/dataTransService?wsdl</webserviceAddress> 
+</dataTransConfig>
+
+<fieldUpLoad>
+	<webserviceAddress>http://127.0.0.1:8080/httpupload/cosupload.do</webserviceAddress>
+</fieldUpLoad>
+
+<fieldDownLoad>
+	<webserviceAddress>http://127.0.0.1:8080/httpupload/download.do</webserviceAddress>
+</fieldDownLoad>
+
+<fieldConfig>
+	<webserviceAddress>http://127.0.0.1:8080/bea/services/customField?wsdl</webserviceAddress>
+</fieldConfig>
+<!-- eis报表servlets地址-->
+<eisReportConfig>
+	<webserviceAddress>http://127.0.0.1:8080/ani/servlets/xml?</webserviceAddress>
+</eisReportConfig>
+<!-- eis报表fill.jsp地址-->
+<beaReportFillConfig>
+	<webserviceAddress>http://127.0.0.1:8080/ani/jsp/fill.jsp?</webserviceAddress>
+</beaReportFillConfig> 
+<!-- ani文件上传servlet地址配置 --> 
+<fileUploadConfig>
+	<webserviceAddress>http://127.0.0.1:8080/ani/upload.do</webserviceAddress>
+</fileUploadConfig>
+<!-- ani视频地址-->
+<videoSourceConfig>
+	<webserviceAddress>http://127.0.0.1:8080/ani/video.do</webserviceAddress>
+</videoSourceConfig>
+<!-- ani视频格式-->
+<videoSuffixConfig>
+	<webserviceAddress>*.mov;*.zip;*.rar</webserviceAddress>
+</videoSuffixConfig>
+
+<dbSynchroConfig>
+	<webserviceAddress>
+		http://127.0.0.1:8080/DBSynchro/services/dbsynchro?wsdl
+	</webserviceAddress>
+</dbSynchroConfig>
+

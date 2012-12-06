@@ -1,0 +1,32 @@
+2012-11-20 11:14:15 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+2012-11-20 11:14:15 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+2012-11-20 11:14:16 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+2012-11-20 11:14:17 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring FrameworkServlet 'mvc'
+2012-11-20 11:15:39 org.apache.catalina.core.ApplicationContext log
+信息: Destroying Spring FrameworkServlet 'mvc'
+2012-11-20 11:15:39 org.apache.catalina.core.ApplicationContext log
+信息: Closing Spring root WebApplicationContext
+2012-11-20 11:15:40 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+2012-11-20 11:15:41 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring FrameworkServlet 'mvc'
+2012-11-20 11:16:03 org.apache.catalina.core.ApplicationContext log
+信息: Destroying Spring FrameworkServlet 'mvc'
+2012-11-20 11:16:03 org.apache.catalina.core.ApplicationContext log
+信息: Closing Spring root WebApplicationContext
+2012-11-20 11:16:04 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext
+2012-11-20 11:16:04 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring FrameworkServlet 'mvc'
+2012-11-20 11:16:06 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextDestroyed()
+2012-11-20 11:16:06 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextDestroyed()
+2012-11-20 11:16:06 org.apache.catalina.core.ApplicationContext log
+信息: Destroying Spring FrameworkServlet 'mvc'
+2012-11-20 11:16:06 org.apache.catalina.core.ApplicationContext log
+信息: Closing Spring root WebApplicationContext
